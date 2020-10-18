@@ -1,0 +1,15 @@
+Kategori-navn;Kodeord,separert med komma,kan fint bruke mellomrom i kodeordet
+Kantina;kantina,informatikkkafe,frederikke,kutt
+Mat;mat,kiwi,rema,coop,joker,internati,kaffe,bunnpris,meny,extra
+Spise ute;spise ute,bit,mcd,cafe,sushi,kebab,pizza,jordbærpike,foodora,baker hansen,wolt,city food
+Uteliv;uteliv,vinmonopolet,vin,oel,øl,chateau,vipps*ordr
+Transport;transport,ruter,tier,voi,lim*,wind,bird
+Helse;helse,synsam,apotek
+Studie-ting;studie-ting,studie
+Interiør;interiør,mester grønn,plante,plantasjen
+Klær;klær,veromoda,bik bok,h&m,cubus
+Kosmetikk;f&l,kicks,kosmetikk
+Fritid;fritid
+Snus;snus
+Fly;fly,norwegian,sas
+Annet;
